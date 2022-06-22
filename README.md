@@ -2,12 +2,10 @@
 
 <p>
   • Moro em São Paulo - SP 🌇 </br>
-  • desenvolvedor Front-end 👨‍💻</br>
+  • desenvolvedor Back-end 👨‍💻 </br>
   • Autodidata 📚</br>
 </p>
  
- ## Conecte-se comigo:
- <a href="https://www.linkedin.com/in/igor-fernandes-vital/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  ## Minhas Skills:
 <a href="https://github.com/IgorFernandesVital" target="_blank"> 
@@ -15,14 +13,31 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" target="_blank">
 </a>
+ 
+ ## Conecte-se comigo:
+ <a href="https://www.linkedin.com/in/igor-fernandes-vital/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ## Resumo do meu GitHub
 
-<div align="center">
-  <a href="https://github.com/IgorFernandesVital">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorFernandesVital&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFernandesVital&layout=compact&langs_count=7&theme=gruvbox"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>Code Distribution</summary>
+        <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFernandesVital&layout=compact&langs_count=7&theme=gruvbox" />
+        </div>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>Readme Stats</summary>
+        <img src="https://github-readme-stats.vercel.app/api?username=IgorFernandesVital&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+      </details>
+    </td>
+  </tr>
+</table>
 
 ![Snake animation](https://github.com/IgorFernandesVital/IgorFernandesVital/blob/output/github-contribution-grid-snake.svg)
