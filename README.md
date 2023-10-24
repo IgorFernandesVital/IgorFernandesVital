@@ -16,28 +16,3 @@
  
  ## Conecte-se comigo:
  <a href="https://www.linkedin.com/in/igor-fernandes-vital/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ## Resumo do meu GitHub
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Code Distribution</summary>
-        <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFernandesVital&layout=compact&langs_count=7&theme=gruvbox" />
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Readme Stats</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=IgorFernandesVital&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-      </details>
-    </td>
-  </tr>
-</table>
-
-![Snake animation](https://github.com/IgorFernandesVital/IgorFernandesVital/blob/output/github-contribution-grid-snake.svg)
